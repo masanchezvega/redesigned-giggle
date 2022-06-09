@@ -44,7 +44,6 @@ Keras-Preprocessing==1.1.2
 keyring==23.2.1
 kiwisolver==1.2.0
 lazy-object-proxy==1.4.3
-loyalicos==0.0.4
 mailchimp-transactional==1.0.19
 Markdown==3.3.4
 MarkupSafe==1.1.1
@@ -102,8 +101,6 @@ tensorflow-estimator==2.6.0
 termcolor==1.1.0
 tomli==1.2.1
 tqdm==4.62.3
-twilio==7.9.1
-twine==3.4.2
 typing-extensions==3.7.4.3
 urllib3==1.25.9
 webencodings==0.5.1
